@@ -1,3 +1,4 @@
+*Welcome
 // CCMP 606 Assignment 1
 // Piggy Bank Smart Contract
 // Author: LOVEPREET KAUR
